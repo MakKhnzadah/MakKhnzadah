@@ -5,7 +5,7 @@
 - 💻 Passionate about software development, problem-solving, and open-source collaboration.  
 - 🎨 Acrylic painter and art enthusiast alongside my tech journey.  
 - 🌱 Currently learning: **Cloud Computing, Backend Development, Advanced Algorithms**.  
-- 📫 Reach me at: [m.khnzadah@outlook.com] | [LinkedIn](www.linkedin.com/in/mak-khnzadah-667a7072)  
+- 📫 Reach me at: [m.khnzadah@outlook.com] | [LinkedIn]([www.linkedin.com/in/mak-khnzadah-667a7072](https://www.linkedin.com/in/mak-khnzadah-667a7072/))  
 
 ---
 
