@@ -1,3 +1,5 @@
+
+ Third-year Bachelor’s student in Computer Science at the University of Agder (UiA), Grimstad, Norway.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
