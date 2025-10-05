@@ -15,10 +15,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
   </a>
   <a href="mailto:m.khnzadah@outlook.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
