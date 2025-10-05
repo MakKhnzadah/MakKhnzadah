@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mak Khnzadah 
 
  🎓 About Me
-- Third-year **Bachelor's student in Computer Science** at the **University of Agder (UiA), Grimstad, Norway**.  
+- Third-year Bachelor's student in Computer Science at the University of Agder (UiA), Grimstad, Norway.  
 - 💻 Passionate about software development, problem-solving, and open-source collaboration.  
 - 🎨 Acrylic painter and art enthusiast alongside my tech journey.  
 - 🌱 Currently learning: **Cloud Computing, Backend Development, Advanced Algorithms**.  
@@ -37,12 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
----
-
- 🌟 Fun Facts
-- ☕ Coffee fuels my code.  
-- 🌍 Love traveling & exploring tech communities.  
-- 🎨 Acrylic painter, with a passion for art and creativity.  
-- ⚽ Football fan in free time.  
-
----
