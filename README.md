@@ -5,7 +5,20 @@
 - 💻 Passionate about software development, problem-solving, and open-source collaboration.  
 - 🎨 Acrylic painter and art enthusiast alongside my tech journey.  
 - 🌱 Currently learning: **Cloud Computing, Backend Development, Advanced Algorithms**.  
-- 📫 Reach me at: [m.khnzadah@outlook.com] | [LinkedIn: www.linkedin.com/in/mak-khnzadah-667a7072](https://www.linkedin.com/in/mak-khnzadah-667a7072/)](https://www.linkedin.com/in/mak-khnzadah-667a7072/]
+- 📫 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mak-khnzadah-667a7072/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com/users/mak0206" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+  </a>
+  <a href="mailto:m.khnzadah@outlook.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
