@@ -27,23 +27,10 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakKhnzadah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MakKhnzadah&layout=compact&theme=radical)
-
----
-
 ### 🚀 Featured Projects
 - [**MyJavaProject**](https://github.com/MakKhnzadah/MyJavaProject) – Java-based web application.  
 - [**PortfolioSite**](https://github.com/MakKhnzadah/PortfolioSite) – Personal portfolio in React + TypeScript.  
 - [**CppAlgorithms**](https://github.com/MakKhnzadah/CppAlgorithms) – Algorithms and Data Structures in C++.  
-
----
-
-### 🎯 Current Focus
-- Building full-stack apps with **React + .NET Core**  
-- Contributing to **open-source projects**  
-- Preparing for **cloud certifications (AWS / Azure)**  
 
 ---
 
