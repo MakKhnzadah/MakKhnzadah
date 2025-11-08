@@ -5,7 +5,8 @@
 - 💻 Passionate about software development, problem-solving, and open-source collaboration.  
 - 🎨 Acrylic painter and art enthusiast alongside my tech journey.  
 - 🌱 Currently learning: **Cloud Computing, Backend Development, Advanced Algorithms**.  
-- 📫 Connect with Me  
+- 📫 Connect with Me
+- Portfolio: https://makkhnzadah.github.io/Mak-portfolio/  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mak-khnzadah-667a7072/" target="_blank">
