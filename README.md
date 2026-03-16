@@ -4,7 +4,7 @@
 - Third-year Bachelor's student in Computer Science at the University of Agder (UiA), Grimstad, Norway.  
 - Passionate about software development, problem-solving, and open-source collaboration.  
 - Acrylic painter and art enthusiast alongside my tech journey.  
-- Currently learning: **Cloud Computing, Backend Development, Advanced Algorithms**.  
+- Currently learning: **AI agent, Cloud Computing, Backend Development, Advanced Algorithms**.  
 - Connect with Me
 - Portfolio: https://makkhnzadah.github.io/Mak-portfolio/  
 
