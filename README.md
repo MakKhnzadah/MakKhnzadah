@@ -22,8 +22,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="40" />
 </a>
 </p>
----
-
 
 ## Languages & Tools
 
